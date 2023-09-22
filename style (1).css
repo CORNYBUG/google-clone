@@ -1,0 +1,54 @@
+.google{
+  width: 272px;
+  height: 92px;
+  margin: 20px;
+  padding-top: 200px;
+  
+}
+
+.searchbox{
+  width: 582.4px;
+  height: 46px;
+  border-radius: 25px;
+  font-size: 17px;
+  background-color: #202124;
+  border: 1px solid grey;
+  color: white;
+  
+}
+
+div{
+  text-align: center;
+}
+
+body{
+  text-align: center;
+  background-color: #202124;
+}
+
+button{
+  background-color: #202124;
+  font-size: 15px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 20px;
+  padding-right: 20px;
+  color:white;
+  margin-top: 17px;
+  margin-left: 3px;
+  margin-right: 3px;
+  border: 1px solid grey;
+  cursor:pointer;
+  
+}
+
+.lang{
+  color: white
+}
+
+p{
+  display: inline-block;
+}
+
+
+
